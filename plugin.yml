@@ -1,4 +1,4 @@
-name: AdvancedKits
+name: KingdomKits
 main: AdvancedKits\Main
 version: 5.1
 api: [2.0.0]
