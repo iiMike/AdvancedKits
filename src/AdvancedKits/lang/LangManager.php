@@ -23,7 +23,7 @@ class LangManager{
             "reload" => "Reloaded kits settings",
             "sel-kit" => "Selected kit: {%0}",
             "cant-afford" => "You cannot afford kit: {%0}",
-            "one-per-life" => "You can only get one kit per life",
+            "one-per-life" => "You already have a kit equipped for this round",
             "cooldown1" => "Kit {%0} is in coolDown at the moment",
             "cooldown2" => "You will be able to get it in {%0}",
             "no-perm" => "You need a higher rank to use kit {%0}, get ranks at kingdom-shop.tk",
