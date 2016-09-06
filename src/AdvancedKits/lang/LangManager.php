@@ -26,7 +26,7 @@ class LangManager{
             "one-per-life" => "You can only get one kit per life",
             "cooldown1" => "Kit {%0} is in coolDown at the moment",
             "cooldown2" => "You will be able to get it in {%0}",
-            "no-perm" => "You haven't the permission to use kit {%0}",
+            "no-perm" => "You need a higher rank to use kit {%0}, get ranks at kingdom-shop.tk",
             "cooldown-format1" => "{%0} minutes",
             "cooldown-format2" => "{%0} hours and {%1} minutes",
             "cooldown-format3" => "{%0} hours",
